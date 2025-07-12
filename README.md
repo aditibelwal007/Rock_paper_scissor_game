@@ -64,8 +64,7 @@ Open index.html in your browser:
 3.Double-click index.html
 
 📸 Demo
-Add a link here if deployed on GitHub Pages, Vercel, or Netlify.
-Example: https://your-username.github.io/rock-paper-scissors/
+Example: https://aditibelwal007.github.io/rock-paper-scissors/
 
 🙌 Author
 Made with ❤️ by Aditi Belwal

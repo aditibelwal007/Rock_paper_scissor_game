@@ -1,2 +1,72 @@
-# Rock_paper_scissor_game
-The Rock Paper Scissors game is a classic hand game played between two players. This web-based implementation lets the user play against the computer. It's built using fundamental web technologies: HTML, CSS, and JavaScript, making it a perfect beginner-friendly project to understand DOM manipulation, event handling, and simple game logic.
+# 🎮 Rock Paper Scissors Game
+
+A fun and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Play against the computer and test your luck and strategy!
+
+![Game Screenshot](screenshot.png) <!-- Add your screenshot file in the repo -->
+
+---
+
+## 📌 Features
+
+- 🖱️ User can choose Rock, Paper, or Scissors.
+- 🤖 Computer randomly selects its choice.
+- 🏆 Instantly shows game result: **Win**, **Lose**, or **Draw**.
+- 📱 Fully responsive for desktop and mobile devices.
+- 💡 Clean, beginner-friendly code structure.
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML** – For structuring the web page
+- **CSS** – For styling the UI
+- **JavaScript** – For game logic and interactivity
+
+---
+
+## 🎮 How to Play
+
+1. Click on Rock, Paper, or Scissors.
+2. The computer will randomly choose its option.
+3. The result will be displayed:
+   - 🪨 Rock crushes Scissors
+   - ✂️ Scissors cuts Paper
+   - 📄 Paper covers Rock
+   - Same choice → It’s a draw!
+
+---
+
+## 📂 Project Structure
+
+rock-paper-scissors/
+├── index.html # Main HTML file
+├── style.css # Stylesheet
+├── script.js # JavaScript logic
+└── README.md # Project documentation
+
+
+---
+
+## 🚀 Getting Started
+
+To run the game locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/aditibelwal007/rock-paper-scissors.git
+2.Navigate into the project folder:
+
+bash
+
+cd rock-paper-scissors
+Open index.html in your browser:
+
+3.Double-click index.html
+
+📸 Demo
+Add a link here if deployed on GitHub Pages, Vercel, or Netlify.
+Example: https://your-username.github.io/rock-paper-scissors/
+
+🙌 Author
+Made with ❤️ by Aditi Belwal
+
